@@ -20,4 +20,4 @@ grep -q -F "alias htop='docker run -it -e TERM --rm --pid host parsemaker/htop'"
 ```
 
 
-* then just hit a "htop"
+* then just hit a `htop`
